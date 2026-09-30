@@ -1,4 +1,4 @@
-# 🏥 Medical Insurance Cost Prediction
+# 🏥 Health Insurance Cost Prediction
 > **รายวิชา:** 03603351 Introduction to Data Science  
 > **เทคโนโลยี:** Python | Machine Learning (Linear Regression) | Gradio
 
