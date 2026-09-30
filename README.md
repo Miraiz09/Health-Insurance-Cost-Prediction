@@ -15,7 +15,7 @@
 
 ---
 
-**2.**📊 ชุดข้อมูล (Dataset)
+**2.** 📊 ชุดข้อมูล (Dataset)
 
 * **แหล่งข้อมูล:** [Medical Cost Personal Datasets (Kaggle)](https://www.kaggle.com/datasets/mirichoi0218/insurance)
 * **ขนาดข้อมูล:** 1,338 แถว, 7 คอลัมน์
