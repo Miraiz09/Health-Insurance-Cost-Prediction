@@ -56,6 +56,8 @@
 
 ## 7. คำอธิบายไฟล์และโฟลเดอร์สำคัญ
 
+├── Health_Insurance,_linear_regression.ipynb/: Jupyter Notebook หลักสำหรับทำ EDA, Preprocessing, Train โมเดล และรัน Web Application
+
 ## 8. ข้อมูลผู้พัฒนา
   1.นายชโยดม ชัยรัตน์ (รหัสนิสิต: 6730300124)
   2.นายทรงวุฒิ โคนัก (รหัสนิสิต: 6730300175)
