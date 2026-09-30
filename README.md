@@ -21,17 +21,17 @@
 
 ---
 
-##  2. แหล่งที่มา จำนวนข้อมูล และการแบ่งชุดฝึก/ชุดทดสอบ
+## 2. แหล่งที่มา จำนวนข้อมูล และการแบ่งชุดฝึก/ชุดทดสอบ
 
 * **แหล่งที่มาของข้อมูล:** [Medical Cost Personal Datasets (Kaggle)](https://www.kaggle.com/datasets/mirichoi0218/insurance)
 * **จำนวนข้อมูลทั้งหมด:** 1,338 รายการ (Rows) ประกอบด้วย 7 ฟีเจอร์ (Columns):
   1. `age`: อายุของผู้ประกันตน (ปี)
   2. `sex`: เพศ (`female`, `male`)
-  3. `bmi`: ดัชนีมวลกาย Body Mass Index ($kg/m^2$)
+  3. `bmi`: ดัชนีมวลกาย Body Mass Index (kg/m²)
   4. `children`: จำนวนบุตรหรือผู้อยู่ในอุปการะ
   5. `smoker`: สถานะการสูบบุหรี่ (`yes`, `no`)
   6. `region`: ภูมิภาคที่อยู่อาศัยใน US (`northeast`, `northwest`, `southeast`, `southwest`)
-  7. `charges`: **[Target Variable]** ค่าเบี้ยประกันสุขภาพ ($)
+  7. `charges`: **[Target Variable]** ค่าเบี้ยประกันสุขภาพ (USD)
 * **การแบ่งชุดข้อมูล (Data Splitting):**
   * **Train Set:** 80% (1,070 รายการ) — สำหรับฝึกสอนโมเดล
   * **Test Set:** 20% (268 รายการ) — สำหรับทดสอบและประเมินประสิทธิภาพโมเดล (`random_state=42`)
