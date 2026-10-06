@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # 1. โหลด Pipeline ที่เทรนไว้ (รับตัวหนังสือตรงๆ ได้เลย)
-model = joblib.load('insurance_model.joblib')
+model = joblib.load('src/insurance_model.joblib')
 
 # 2. ฟังก์ชันทำนายผล
 def predict_charges(age, sex, bmi, children, smoker, region):
