@@ -99,8 +99,6 @@ Health Insurance Cost Prediction App : https://health-insurance-cost-prediction-
 
 ## 7. คำอธิบายไฟล์และโฟลเดอร์สำคัญ
 
-## 7. คำอธิบายไฟล์และโฟลเดอร์สำคัญ
-
 * `datasets/insurance.csv` : ชุดข้อมูลค่าใช้จ่ายด้านประกันสุขภาพสำหรับนำไปวิเคราะห์และฝึกสอนโมเดล
 * `notebooks/train_model.ipynb` : Jupyter Notebook สำหรับวิเคราะห์ข้อมูลและฝึกสอนโมเดล Machine Learning
 * `src/app.py` : ไฟล์หลักสำหรับสร้างและรันเว็บแอปพลิเคชันด้วย Gradio
