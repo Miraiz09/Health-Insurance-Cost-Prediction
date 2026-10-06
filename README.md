@@ -99,7 +99,16 @@ Health Insurance Cost Prediction App : https://health-insurance-cost-prediction-
 
 ## 7. คำอธิบายไฟล์และโฟลเดอร์สำคัญ
 
-├── Health_Insurance,_linear_regression.ipynb/: Jupyter Notebook หลักสำหรับทำ EDA, Preprocessing, Train โมเดล และรัน Web Application
+## 7. คำอธิบายไฟล์และโฟลเดอร์สำคัญ
+
+* `datasets/insurance.csv` : ชุดข้อมูลค่าใช้จ่ายด้านประกันสุขภาพสำหรับนำไปวิเคราะห์และฝึกสอนโมเดล
+* `notebooks/train_model.ipynb` : Jupyter Notebook สำหรับวิเคราะห์ข้อมูลและฝึกสอนโมเดล Machine Learning
+* `src/app.py` : ไฟล์หลักสำหรับสร้างและรันเว็บแอปพลิเคชันด้วย Gradio
+* `src/insurance_model.joblib` : ไฟล์โมเดลที่ผ่านการฝึกสอนแล้ว ใช้สำหรับทำนายค่าใช้จ่ายด้านประกันสุขภาพ
+* `src/requirements.txt` : รายการไลบรารี Python ที่จำเป็นสำหรับติดตั้งและใช้งานโปรเจกต์
+* `.gitignore` : กำหนดไฟล์และโฟลเดอร์ที่ไม่ต้องการติดตามด้วย Git
+* `README.md` : เอกสารอธิบายรายละเอียดโครงงาน วิธีติดตั้ง วิธีใช้งาน และข้อมูลที่เกี่ยวข้อง
+
 
 ## 8. ข้อมูลผู้พัฒนา
 1. นายชโยดม ชัยรัตน์ (รหัสนิสิต: 6730300124)
