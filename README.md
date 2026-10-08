@@ -95,7 +95,7 @@
 
 ## 6. URL ของแอปพลิเคชันที่รันบนเซิร์ฟเวอร์
 
-Health Insurance Cost Prediction App : https://health-insurance-cost-prediction-bquu.onrender.com/?fbclid=IwY2xjawUyARtleHRuA2FlbQIxMQBwZG9mA3NydGMGYXBwX2lkATAAAR7fKq9qyhqTx_mkY6uq9fMFoFUjcFoUQ5a5159vNWsbmpLPVB8b3UBwc9Wovg_aem_fn6NASbuLnA5Ad_reRsQKg
+Health Insurance Cost Prediction App : https://health-insurance-cost-prediction-bquu.onrender.com
 
 ## 7. คำอธิบายไฟล์และโฟลเดอร์สำคัญ
 
